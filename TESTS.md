@@ -12,15 +12,6 @@ sudo -H pip3 install pytest
 - ## 01 Hello World
     ### Run command
     ```
-    pytest assignments/01HelloWorld
+    pytest assignments/MiPrueba
     ```
-- ## 02 Once Upon a Time
-    ### Run command
-    ```
-    pytest assignments/02OnceUponATime
-    ```
-- ## 03 Message
-    ### Run command
-    ```
-    pytest assignments/03Message
-    ```
+
