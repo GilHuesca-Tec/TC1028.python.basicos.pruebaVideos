@@ -7,7 +7,7 @@ input_values = [
         # Inputs
         ["4", "3", "2"],
         # Outputs
-        ["Dame un número: ", "Dame un número: ", "Dame un número: ", "El promedio de los números es: 3.0"],
+        ["Dame un número: ", "Dame un número: ", "Dame un número: ", "La suma es 9"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores."
     ),
@@ -15,7 +15,7 @@ input_values = [
         # Inputs
         ["2", "2", "2"],
         # Outputs
-        ["Dame un número: ", "Dame un número: ", "Dame un número: ", "El promedio de los números es: 2.0"],
+        ["Dame un número: ", "Dame un número: ", "Dame un número: ", "La suma es 6"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores."
     )
